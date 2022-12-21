@@ -1,16 +1,23 @@
 {
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "name": "proyecto-en-playground",
+  "name": "mer2",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hidan12/mer2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Hidan12/mer2/issues"
+  },
+  "homepage": "https://github.com/Hidan12/mer2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
